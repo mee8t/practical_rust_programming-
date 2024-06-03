@@ -1,0 +1,10 @@
+/*1)Write a Rust Program to print the values assigned to
+different variables belonging to different data types. */
+fn main() {
+      let name = "Preet Sanghvi";
+      let mobile_no = 900;
+      let  student:bool = true;
+    println!("name of student {}",name);
+    println!("mobile number of student {}",mobile_no);
+    println!("Is student {}",student);
+}
